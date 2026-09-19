@@ -1,6 +1,6 @@
 # Email Automation
 
-![Uploading email automation.png…]()
+<img width="1918" height="820" alt="email automation" src="https://github.com/user-attachments/assets/580782b6-747e-43c4-aca6-a173e8b1c191" />
 
 ## Setup Instructions
 
