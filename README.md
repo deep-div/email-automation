@@ -1,23 +1,6 @@
-# 📧 Cold Email Generator
+# 📧 Email Automation
 
-A powerful cold email automation tool built using **Groq**, **LangChain**, and **Streamlit**.
-
-This tool allows users to enter a company’s **careers page URL**, automatically extract job listings, analyze job descriptions, and generate **highly personalized cold emails**.  
-It also retrieves relevant portfolio links from a **vector database**, ensuring every outreach message is contextual and effective.
-
----
-
-## 🚀 Example Scenario
-
-- **TCS** is hiring for a *Principal Software Engineer*, investing significant time and effort into recruitment, onboarding, and training.  
-- **Nike**, a software development company, can provide a dedicated engineer to support Nike.  
-- **Rahul**, the business development executive at TCS, uses this tool to instantly generate a personalized cold email and reach out efficiently.
-
----
-
-## 📸 Screenshot
-
-<img width="1920" height="820" alt="Screenshot (841)" src="https://github.com/user-attachments/assets/a94ccea7-29d1-4c18-bc48-5642f608165c" />
+<img width="1918" height="820" alt="email automation" src="https://github.com/user-attachments/assets/387dfcb2-9753-48b2-b203-07b656c56102" />
 
 ---
 
