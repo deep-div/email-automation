@@ -1,6 +1,6 @@
-# 📧 Cold Email Automation
+# 📧 Email Automation
 
-<img width="1920" height="820" alt="Screenshot (841)" src="https://github.com/user-attachments/assets/a94ccea7-29d1-4c18-bc48-5642f608165c" />
+<img width="1918" height="820" alt="email automation" src="https://github.com/user-attachments/assets/387dfcb2-9753-48b2-b203-07b656c56102" />
 
 ---
 
