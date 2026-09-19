@@ -1,8 +1,6 @@
 # Email Automation
 
-<img width="1918" height="820" alt="email automation" src="https://github.com/user-attachments/assets/387dfcb2-9753-48b2-b203-07b656c56102" />
-
----
+![Uploading email automation.png…]()
 
 ## Setup Instructions
 
@@ -14,7 +12,6 @@ Generate an API key here:
 
 Update the `GROQ_API_KEY` value inside `app/.env`.
 
----
 
 ## Installation & Running the App
 
